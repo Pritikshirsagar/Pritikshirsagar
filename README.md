@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Priti Kshirsagar </h1>
 
-- 🌱 I’m currently learning Javascpirt,Nodejs,AnglurJS
-- 💬 Ask me about codeignitore
+- 🌱 I’m currently learning Javascpirt,AnglurJS
+- 💬 Ask me about PHP,codeignitore
 - 📫 How to reach me: kshirsagarpriti2697@gmail.com
 
 <h3 align="center">Web Deveploer From Maharastra</h3>
@@ -43,8 +43,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
-<img src="https://img.shields.io/badge/mongodb-%23000000.svg?&style=for-the-badge&logo=mongodb&logoColor=green"/>
 </div>
 
 
