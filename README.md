@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Pritikshirsagar/Pritikshirsagar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Priti Kshirsagar </h1>
+
+- 🌱 I’m currently learning Javascpirt,Nodejs,AnglurJS
+- 💬 Ask me about codeignitore
+- 📫 How to reach me: kshirsagarpriti2697@gmail.com
+
 <h3 align="center">Web Deveploer From Maharastra</h3>
 
 
