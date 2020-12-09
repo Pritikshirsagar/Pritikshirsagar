@@ -26,14 +26,6 @@ Here are some ideas to get you started:
 
 
 
-<p align="center">
-<a href="https://linkedin.com/in/aswin-asok-b330541b0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aswin-asok-b330541b0" height="20" width="20" /></a>
-<a href="https://fb.com/aswinasokofficial" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="aswinasokofficial" height="20" width="20" /></a>
-<a href="https://instagram.com/_aswin_asok_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_aswin_asok_" height="20" width="20" /></a>
- <a href="https://t.me/The_Hilarious_Coder" target="blank"><img  align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="https://t.me/The_Hilarious_Coder" height="20" width="20" /></a>
-  <br />
- <a href="https://gdpd.xyz/aswinasok" target="blank">Message Me Anonymously</a>
-</p>
 
 ## ⚡ My Technologies
 <div float: right;
