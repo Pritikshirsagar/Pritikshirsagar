@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Priti Kshirsagar </h1>
-<h3 align="center">A Tech Enthusiast From Kerala</h3>
+<h3 align="center">Web Deveploer From Maharastra</h3>
 
 
 <img align='right' src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="350" >
