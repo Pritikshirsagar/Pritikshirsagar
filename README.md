@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about PHP,codeignitore
 - 📫 How to reach me: kshirsagarpriti2697@gmail.com
 
-<h3 align="center">Web Deveploer From Maharastra</h3>
+<h3 align="center">Web Deveploer From Maharashtra</h3>
 
 
 <img align='right' src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="350" >
