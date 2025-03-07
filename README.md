@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Priti Kshirsagar </h1>
+<h1 align="center">Hi 👋, I'm Priti Kshirsagar /Shinde</h1>
 
 - 🌱 I’m currently learning Javascpirt,AnglurJS
 - 💬 Ask me about PHP,codeignitore
