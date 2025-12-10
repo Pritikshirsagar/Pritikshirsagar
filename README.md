@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Priti Kshirsagar /Shinde</h1>
 
-- 🌱 I’m currently learning Javascpirt,AnglurJS
-- 💬 Ask me about PHP,codeignitore
+- 🌱 I’m currently learning Javascpirt,AnglurJS,Reactjs
+- 💬 Ask me about PHP,codeignitore,laravel,SQL
 - 📫 How to reach me: kshirsagarpriti2697@gmail.com
 
 <h3 align="center">Web Deveploer From Maharashtra</h3>
